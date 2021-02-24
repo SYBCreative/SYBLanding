@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Seamless Experience Across Digital Media & Commerce',
+    paragraph: 'The next generation of consumer technology driven media brands.'
   };
 
   return (
@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={require('./../../assets/images/viz/PIIICs00.jpg')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -109,7 +109,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/viz/PIIICs06.jpg')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -135,7 +135,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/viz/PIIICs19.jpg')}
                   alt="Features split 03"
                   width={528}
                   height={396} />
