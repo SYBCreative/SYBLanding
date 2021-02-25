@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-syblanding-dev-154126-authRole",
+            "UnauthRoleArn": "arn:aws:iam::554578744415:role/amplify-syblanding-dev-154126-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::554578744415:role/amplify-syblanding-dev-154126-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-syblanding-dev-154126-deployment",
+            "UnauthRoleName": "amplify-syblanding-dev-154126-unauthRole",
+            "StackName": "amplify-syblanding-dev-154126",
+            "StackId": "arn:aws:cloudformation:us-west-2:554578744415:stack/amplify-syblanding-dev-154126/d479d2e0-76f9-11eb-887d-0add4a464edf",
+            "AmplifyAppId": "d2s4zlwy5arn6i"
+        },
+        "categories": {
+            "auth": {
+                "syblanding1d9b9720": {}
+            }
+        }
+    }
+}

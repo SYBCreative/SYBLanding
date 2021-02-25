@@ -3,6 +3,7 @@ import classNames from 'classnames';
 import { SectionSplitProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
 import Image from '../elements/Image';
+//import ResponsivePlayer from "..elements/ResponsivePlayer";
 
 const propTypes = {
   ...SectionSplitProps.types
