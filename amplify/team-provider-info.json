@@ -16,5 +16,29 @@
                 "syblanding1d9b9720": {}
             }
         }
+    },
+    "sybland": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-syblanding-sybland-185557-authRole",
+            "UnauthRoleArn": "arn:aws:iam::757887447730:role/amplify-syblanding-sybland-185557-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::757887447730:role/amplify-syblanding-sybland-185557-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-syblanding-sybland-185557-deployment",
+            "UnauthRoleName": "amplify-syblanding-sybland-185557-unauthRole",
+            "StackName": "amplify-syblanding-sybland-185557",
+            "StackId": "arn:aws:cloudformation:us-west-2:757887447730:stack/amplify-syblanding-sybland-185557/79191690-82de-11eb-a353-0a851d6799db",
+            "AmplifyAppId": "dkblgpzhrs600"
+        },
+        "categories": {
+            "auth": {
+                "syblanding1d9b9720": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dkblgpzhrs600",
+                    "type": "cicd"
+                }
+            }
+        }
     }
 }
