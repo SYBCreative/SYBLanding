@@ -60,7 +60,7 @@ const Hero = ({
               className="mt-0 mb-16 reveal-from-bottom"
               data-reveal-delay="200"
             >
-              SYB <span className="text-color-primary">Media</span>
+              SYB <span className="text-color-primary">Media!</span>
             </h1>
             <div className="container-xs">
               <p
