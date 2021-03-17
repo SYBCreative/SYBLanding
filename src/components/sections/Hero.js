@@ -60,14 +60,14 @@ const Hero = ({
               className="mt-0 mb-16 reveal-from-bottom"
               data-reveal-delay="200"
             >
-              SYB <span className="text-color-primary">Media!</span>
+              SYB <span className="text-color-primary">Media</span>
             </h1>
             <div className="container-xs">
               <p
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                The Official Web Experience for SYB. Explore, Create, Discover.
+                Explore, Create, Discover.
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
@@ -75,7 +75,7 @@ const Hero = ({
                     tag="a"
                     color="primary"
                     wideMobile
-                    href="https://main.d3jnfgtieaqiyl.amplifyapp.com/"
+                    href="www.experienceagora.com"
                   >
                     Agora
                   </Button>
