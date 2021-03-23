@@ -66,10 +66,8 @@ const FeaturesSplit = ({
                 className="split-item-content center-content-mobile reveal-from-left"
                 data-reveal-container=".split-item"
               >
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Digital Media Brand
-                </div>
-                <h3 className="mt-0 mb-12">Data-driven insights</h3>
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
+                <h3 className="mt-0 mb-12">Digital Media Brand</h3>
                 <p className="m-0">360 Media. VR, Video, Visuals, Music.</p>
               </div>
               <div
@@ -93,11 +91,9 @@ const FeaturesSplit = ({
                 className="split-item-content center-content-mobile reveal-from-right"
                 data-reveal-container=".split-item"
               >
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  High Volume Output
-                </div>
-                <h3 className="mt-0 mb-12">Data-driven insights</h3>
-                <p className="m-0">Digital Artists.</p>
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
+                <h3 className="mt-0 mb-12">High Volume Output</h3>
+                <p className="m-0">Digital Artists</p>
               </div>
               <div
                 className={classNames(
@@ -120,10 +116,10 @@ const FeaturesSplit = ({
                 className="split-item-content center-content-mobile reveal-from-left"
                 data-reveal-container=".split-item"
               >
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
+                <h3 className="mt-0 mb-12">
                   Production, Publishing, Marketing
-                </div>
-                <h3 className="mt-0 mb-12">Data-driven insights</h3>
+                </h3>
                 <p className="m-0">Brand Marketing and growth.</p>
               </div>
               <div
