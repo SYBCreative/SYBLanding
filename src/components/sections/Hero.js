@@ -80,7 +80,7 @@ const Hero = ({
                     tag="a"
                     color="primary"
                     wideMobile
-                    href="www.experienceagora.com"
+                    href="https://www.experienceagora.com"
                   >
                     Agora
                   </Button>
