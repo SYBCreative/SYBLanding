@@ -69,7 +69,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Music</h4>
                   <p className="m-0 text-sm">
-                    Production using software. Consistent release slate.
+                    Advanced production and consistent release slate.
                   </p>
                 </div>
               </div>
@@ -91,11 +91,9 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Marketplace</h4>
+                  <h4 className="mt-0 mb-8">Digital Marketing</h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    Digital Marketing Strategy and Execution
                   </p>
                 </div>
               </div>
@@ -164,7 +162,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Live Experience</h4>
                   <p className="m-0 text-sm">
-                    Live performance and spectacle.{" "}
+                    Live Performance and Spectacle.{" "}
                   </p>
                 </div>
               </div>
