@@ -92,8 +92,10 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
-                <h3 className="mt-0 mb-12">High Volume Output</h3>
-                <p className="m-0">Digital Artists</p>
+                <h3 className="mt-0 mb-12">Fashion Merchandising</h3>
+                <p className="m-0">
+                  E-Commerce Driven Fashion Merchandising Brand
+                </p>
               </div>
               <div
                 className={classNames(
