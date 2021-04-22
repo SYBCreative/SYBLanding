@@ -43,9 +43,9 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: "SYB New Hollywood",
+    title: "SYB - New Hollywood",
     paragraph:
-      "Intersecting at Technology and Digital Media, SYB is an innovation-driven evolution off of the traditional entertainment industry.",
+      "Intersecting at Technology and Digital Media, SYB is an innovation-driven evolution of the traditional entertainment industry.",
   };
 
   return (
@@ -117,7 +117,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Virtual Production</h4>
                   <p className="m-0 text-sm">
-                    4K virtual production using the Unreal Engine.
+                    4K vVrtual Production Using the Unreal Engine.
                   </p>
                 </div>
               </div>
@@ -138,7 +138,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">NFT's</h4>
                   <p className="m-0 text-sm">
-                    Minting Crpyto Assets from digital media.
+                    Minting Crpyto Assets from Digital Media.
                   </p>
                 </div>
               </div>
@@ -185,10 +185,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Mobile App</h4>
-                  <p className="m-0 text-sm">
-                    Mobile App development to keep the audience as close as
-                    possible to the brand.
-                  </p>
+                  <p className="m-0 text-sm">Frictionless Delivery of Media</p>
                 </div>
               </div>
             </div>
